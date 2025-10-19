@@ -119,7 +119,7 @@ export default function Portfolio() {
             <div className="relative w-40 h-40 md:w-56 md:h-56 animate-pulse">
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 rounded-full blur-2xl opacity-75 animate-spin" style={{ animationDuration: '8s' }}></div>
               <img 
-                src="https://media.licdn.com/dms/image/v2/D5603AQGUfyXnEt_p9Q/profile-displayphoto-crop_800_800/B56Znp6Ul4G0AI-/0/1760566004898?e=1762387200&v=beta&t=Bictm20B6Rs7yS2pSyMkc0t6wlOgomebUbwdRFO017c"
+                src="/profile_pic/IMG.jpg"
                 alt="Bhuvana Sai Puchakayala"
                 className="relative w-40 h-40 md:w-56 md:h-56 rounded-full object-cover border-4 border-slate-900 shadow-2xl hover:scale-105 transition-transform duration-500"
               />
